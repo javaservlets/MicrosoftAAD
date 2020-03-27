@@ -1,0 +1,14 @@
+# Build and Release Folders
+target/
+
+# Other files and folders
+.settings/
+.idea/
+
+# Executables
+*.iml
+*.class
+*.ipa
+*.apk
+*.mov
+
